@@ -8,7 +8,7 @@ export default function App () {
       connectors={connectors}
       libraryName={'ethers.js'|'web3.js'| null}
     >
-      hello world
+      edit app.js to get started :)
     </Web3Provider>
   )
 }
